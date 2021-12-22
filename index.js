@@ -1,8 +1,8 @@
 const { Builder, By, Key, until } = require('selenium-webdriver');
 const chrome = require('selenium-webdriver/chrome');
 const fs = require('fs');
-// const credentials = { username: "nlisinsta", password: "instagram33" };
-const credentials = { username: "gill2l4tourette", password: "emf12345" };
+// const credentials = { username: "***", password: "***" };
+const credentials = { username: "***", password: "***" };
 const jeunesses_urls = {
     saint_aubin: "CXGEyg3j6TG",
     forel: "CXtGfjyruk-",
