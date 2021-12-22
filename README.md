@@ -7,3 +7,9 @@ La version postée ici correspond pour Chrome  ``V89.x``
 
 ### Données exportées
 Les données sont exportées dans le dossier d'un niveau plus haut sous ``../data.json``. Elles peuvent être traitées et visualisées en utilisant le ``Instagram-Concours-Like-Visualizer``.
+
+
+### Dependences
+Les dépendences NodeJS sont ``fs`` et ``selenium-webdriver`` :
+
+Installation : ``npm i fs selenium-webdriver`` ou ``npm install`` pour prendre les dépendences directement depuis le fichier ``package.json``
