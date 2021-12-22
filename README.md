@@ -30,7 +30,7 @@ Les données sont exportées dans le dossier d'un niveau plus haut sous ``../dat
 ```
 
 
-### Dependences
+### Dépendences
 Les dépendences NodeJS sont ``fs`` et ``selenium-webdriver`` :
 
 Installation : ``npm i fs selenium-webdriver`` ou ``npm install`` pour prendre les dépendences directement depuis le fichier ``package.json``
